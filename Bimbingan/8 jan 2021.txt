@@ -1,0 +1,10 @@
+Bab II penelitian terkait dengan TA 
+paper yang terkait dengan TA masing-masing VR, google cardboard, 
+
+paper yang update minimal 5 tahun sebelumnya, paling telat 2016 
+- pengimplementasian VR edukasi, pengujian 
+- google cardboard, untuk apa orang2 pake google cardboard 
+- 3D visual tampilan 3D yan pernah orang2 buat itu seperti apa 
+
+Kebanyakan sub bab
+blog diagram inti sari dari story board (flowchart) 
