@@ -641,6 +641,9 @@
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/Bismillah TA/Garden&apos;s Tour(2)/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.TerrainTools">
+ <HintPath>D:/Bismillah TA/Garden&apos;s Tour(2)/Library/ScriptAssemblies/Unity.TerrainTools.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.VSCode.Editor">
  <HintPath>D:/Bismillah TA/Garden&apos;s Tour(2)/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
@@ -661,6 +664,9 @@
  </Reference>
  <Reference Include="Unity.TextMeshPro">
  <HintPath>D:/Bismillah TA/Garden&apos;s Tour(2)/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TerrainTools.Editor">
+ <HintPath>D:/Bismillah TA/Garden&apos;s Tour(2)/Library/ScriptAssemblies/Unity.TerrainTools.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
  <HintPath>D:/Bismillah TA/Garden&apos;s Tour(2)/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
